@@ -29,12 +29,3 @@
 ## bot challenge
 * bot_challenge
   - utter_iamabot
-
-## interactive_story_1
-* greet
-    - utter_greet
-* say_joke
-    - action_joke
-* greet
-    - utter_greet
-* bot_challenge

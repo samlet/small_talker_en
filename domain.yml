@@ -8,7 +8,6 @@ actions:
 - utter_iamabot
 intents:
 - greet
-- say_joke
 - bot_challenge
 - goodbye
 - affirm

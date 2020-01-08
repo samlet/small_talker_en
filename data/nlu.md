@@ -54,8 +54,3 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
-
-## intent:say_joke
-- tell me a joke
-- say a joke
-- say a story
