@@ -7,9 +7,10 @@ actions:
 - utter_happy
 - utter_iamabot
 intents:
+- say_joke
 - greet
-- bot_challenge
 - goodbye
+- bot_challenge
 - affirm
 - deny
 - mood_great

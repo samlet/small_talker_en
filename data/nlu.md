@@ -11,6 +11,7 @@
 - goodbye
 - see you around
 - see you later
+- ok
 
 ## intent:affirm
 - yes
@@ -54,3 +55,7 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:say_joke
+- tell me a joke
+- say a joke
